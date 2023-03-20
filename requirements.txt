@@ -1,4 +1,5 @@
 Flask
 sentence-transformers
 bert-extractive-summarizer
+nltk
 gunicorn
